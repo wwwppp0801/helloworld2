@@ -13,7 +13,7 @@
 ## 访问地址
 - **开发服务器**: https://3000-ivj8irz099zi57fs07g4p-6532622b.e2b.dev
 - **API健康检查**: https://3000-ivj8irz099zi57fs07g4p-6532622b.e2b.dev/api/hello
-- **GitHub**: 待配置
+- **GitHub仓库**: https://github.com/wwwppp0801/helloworld2
 
 ## 功能说明
 
@@ -40,7 +40,7 @@ curl https://3000-ivj8irz099zi57fs07g4p-6532622b.e2b.dev/api/time
 
 ### 待实现功能
 🔲 **Cloudflare Pages部署**: 生产环境部署  
-🔲 **GitHub集成**: 代码仓库托管  
+✅ **GitHub集成**: 代码已托管在 https://github.com/wwwppp0801/helloworld2  
 🔲 **自定义域名**: 个性化域名配置  
 🔲 **更多功能**: 根据需求扩展
 
